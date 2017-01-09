@@ -1,0 +1,10 @@
+name: 'vischeme'
+version: '1.2.0'
+license: 'MIT'
+author: 'Jesse Del Greco'
+url: 'http://github.com/delgrecoj/vischeme'
+description: '24bit colorscheme matching dotfiles'
+colorschemes:
+  - name: vischeme
+    background: 'dark'
+    palette: vischeme
