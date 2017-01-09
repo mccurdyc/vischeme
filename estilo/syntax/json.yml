@@ -1,0 +1,23 @@
+jsonPadding: '' # Operator
+jsonString: '' # String
+jsonTest: '' # Label
+jsonEscape: 'blueish' # Special
+jsonNumber: 'purplish' # Number
+jsonBraces: 'foreground' # Delimiter
+jsonNull: '' # Function
+jsonBoolean: 'purplish' # Boolean
+jsonKeyword: '' # Label
+jsonKeywordMatch: 'reddish' # Label
+jsonNumError: '' # Error
+jsonCommentError: '' # Error
+jsonSemicolonError: '' # Error
+jsonTrailingCommaError: '' # Error
+jsonMissingCommaError: '' # Error
+jsonStringSQError: '' # Error
+jsonNoQuotesError: '' # Error
+jsonTripleQuotesError: '' # Error
+jsonQuote: 'foreground' # Quote
+jsonNoise: 'reddish' # Noise
+
+
+

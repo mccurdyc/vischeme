@@ -1,0 +1,13 @@
+stylusComment: '' # Comment
+stylusVariable: 'foreground' # Identifier
+stylusControl: '' # PreProc
+stylusFunction: '' # Function
+stylusInterpolation: '' # Delimiter
+stylusAmpersand: '' # Character
+stylusClass: 'greenish' # Type
+stylusClassChar: 'blueish' # Special
+stylusEscape: '' # Special
+stylusId: 'greenish' # Identifier
+stylusIdChar: 'blueish' # Special
+cssVisualVal: 'foreground'
+

@@ -1,0 +1,33 @@
+markdownH1: 'blueish - b' # htmlH1
+markdownH2: '' # htmlH2
+markdownH3: '' # htmlH3
+markdownH4: '' # htmlH4
+markdownH5: '' # htmlH5
+markdownH6: '' # htmlH6
+markdownHeadingRule: 'reddish - b' # markdownRule
+markdownHeadingDelimiter: 'reddish - b' # Delimiter
+markdownOrdereddishListMarker: '' # markdownListMarker
+markdownListMarker: 'purplish' # htmlTagName
+markdownBlockquote: 'purplish' # Comment
+markdownRule: 'greenish' # PreProc
+markdownLinkText: 'greenish' # htmlLink
+markdownLinkTextDelimiter: 'blueish' # htmlLink
+markdownLinkDelimiter: 'blueish' # htmlLink
+markdownIdDeclaration: 'greenish' # Typedef
+markdownId: '' # Type
+markdownAutomaticLink: 'blueish' # markdownUrl
+markdownUrl: 'blueish' # Float
+markdownUrlTitle: 'purplish' # String
+markdownIdDelimiter: '' # markdownLinkDelimiter
+markdownUrlDelimiter: 'purplish' # htmlTag
+markdownUrlTitleDelimiter: 'purplish' # Delimiter
+markdownItalic: '' # htmlItalic
+markdownBold: '' # htmlBold
+markdownBoldItalic: '' # htmlBoldItalic
+markdownCodeDelimiter: 'blueish' # Delimiter
+markdownCode: 'purplish' # Delimiter
+markdownEscape: 'blueish' # Special
+markdownError: 'reddish' # Error
+
+
+

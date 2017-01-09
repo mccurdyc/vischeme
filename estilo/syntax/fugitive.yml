@@ -1,0 +1,11 @@
+FugitiveblameBoundary: '' # Keyword
+FugitiveblameHash: 'blueish' # Identifier
+FugitiveblameUncommitted: 'reddish' # Ignore
+FugitiveblameTime: 'greenish' # PreProc
+FugitiveblameLineNumber: '' # Number
+FugitiveblameOriginalFile: '' # String
+FugitiveblameOriginalLineNumber: '' #
+FugitiveblameShort: '' # FugitiveblameDelimiter
+FugitiveblameDelimiter: '' # Delimiter
+FugitiveblameNotCommittedYet: 'purplish' # Comment
+

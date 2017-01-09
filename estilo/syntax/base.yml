@@ -1,0 +1,95 @@
+# BASE UI
+ColorColumn: '- bgdarker'
+Conceal: ''
+Cursor: ''
+CursorIM: ''
+CursorColumn: '- bgdarker'
+CursorLine: '- bgdarker'
+CursorLineNr: 'tealish bgdarker '
+Directory: 'blueish -'
+DiffAdd: '- greenlight'
+DiffChange: '- bluelight'
+DiffDelete: 'reddish redlight'
+DiffText: '- bluelight i'
+VertSplit: 'bgdarker bgdarker'
+Folded: 'fgdimmed bgdarker'
+FoldColumn: 'fglighter bgdimmed'
+SignColumn: 'fglightest -'
+IncSearch: 'tealish background u'
+LineNr: 'fglightest -'
+MatchParen: 'tealish bgdarker u'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'fgdimmed -'
+Normal: 'foreground background'
+PMenu: 'tealish bgdarker'
+PMenuSel: 'background tealish'
+PmenuSbar: '- purplish'
+PmenuThumb: '- purplish'
+WildMenu: 'background tealish'
+Question: 'greenish -'
+Search: 'tealish background u'
+SpecialKey: 'bgdimmed'
+SpellBad: 'reddish'
+SpellLocal: 'purplish'
+SpellCap: 'purplish'
+SpellRare: 'blueish'
+StatusLine: 'tealish bgdarker'
+StatusLineNC: 'fglighter bgdarker'
+Title: 'blueish -'
+Visual: '- bgdarker'
+VisualNOS: '- bgdarker'
+WarningMsg: 'reddish -'
+Comment: 'fglighter - i'
+Constant: 'purplish -'
+String: 'purplish -' # Constant
+Character: 'purplish -' # Constant
+Boolean: 'purplish -' # Constant
+Number: 'purplish -' # Constant
+Float: 'purplish -' # Constant
+Identifier: 'blueish -'
+Function: 'blueish -' # Identifier
+Statement: 'blueish -'
+Conditional: 'greenish -' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: 'tealish -' # Statement
+Keyword: '' # Statement
+Exception: 'reddish -' # Statement
+PreProc: 'greenish -'
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'blueish - '
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'blueish -'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: '- - u'
+Ignore: ''
+Error: 'reddish -'
+ErrorMsg: 'reddish -'
+Todo: 'reddish bgdarker i'
+EasyMotionShade: 'bgdimmed - i'
+EasyMotionTarget: 'tealish - i'
+EasyMotionTarget2First: 'tealish - i'
+EasyMotionTarget2Second: 'tealish - i'
+SignifySignAdd: 'greenish'
+SignifySignChange: 'blueish'
+SignifySignDelete: 'reddish'
+SignifySignChangeDelete: 'reddish'
+TabLine: 'foreground background'
+TabLineFill: 'foreground background'
+TabLineSel: 'foreground background'
+CurrentBuffer: 'tealish background u'
+
+texItalStyle: 'foreground background i'
+specStyle: 'tealish bgdarker i'
+
+# fixme; submit bug report about link feature not working
