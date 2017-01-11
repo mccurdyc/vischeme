@@ -4,7 +4,7 @@
 " URL: http://github.com/delgrecoj/vischeme
 " Author: Jesse Del Greco
 " License: MIT
-" Last Change: 2017/01/10 19:03
+" Last Change: 2017/01/10 21:22
 " ===============================================================
 
 set background=dark
@@ -25,10 +25,10 @@ hi DiffDelete guifg=#e17a7a ctermfg=174 guibg=#403434 ctermbg=237 gui=NONE cterm
 hi DiffText guifg=NONE ctermfg=NONE guibg=#363c3f ctermbg=237 gui=italic cterm=italic
 hi VertSplit guifg=#1e2132 ctermfg=235 guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
 hi Folded guifg=#74788b ctermfg=243 guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
-hi FoldColumn guifg=#3d425c ctermfg=238 guibg=#24293f ctermbg=235 gui=NONE cterm=NONE
-hi SignColumn guifg=#292d43 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi FoldColumn guifg=#74788b ctermfg=243 guibg=#24293f ctermbg=235 gui=NONE cterm=NONE
+hi SignColumn guifg=#3d425c ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=#8ab8c1 ctermfg=109 guibg=#161821 ctermbg=234 gui=underline cterm=underline
-hi LineNr guifg=#292d43 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LineNr guifg=#3d425c ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#8ab8c1 ctermfg=109 guibg=#1e2132 ctermbg=235 gui=underline cterm=underline
 hi NonText guifg=#74788b ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#c7c9d1 ctermfg=251 guibg=#161821 ctermbg=234 gui=NONE cterm=NONE
@@ -45,12 +45,12 @@ hi SpellLocal guifg=#e2a578 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi SpellCap guifg=#e2a578 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#85a0c7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#8ab8c1 ctermfg=109 guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
-hi StatusLineNC guifg=#3d425c ctermfg=238 guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
+hi StatusLineNC guifg=#74788b ctermfg=243 guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
 hi Title guifg=#85a0c7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
 hi VisualNOS guifg=NONE ctermfg=NONE guibg=#1e2132 ctermbg=235 gui=NONE cterm=NONE
 hi WarningMsg guifg=#e17a7a ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Comment guifg=#3d425c ctermfg=238 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#74788b ctermfg=243 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#e2a578 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#e2a578 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#e2a578 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -121,7 +121,7 @@ hi gitcommitDiscardedFile guifg=#e17a7a ctermfg=174 guibg=NONE ctermbg=NONE gui=
 hi gitcommitSelectedFile guifg=#b8c587 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi helpHyperTextEntry guifg=#b8c587 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi helpHeadline guifg=#85a0c7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi helpSectionDelim guifg=#3d425c ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi helpSectionDelim guifg=#74788b ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi helpNote guifg=#e17a7a ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptOperator guifg=#b8c587 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptBraces guifg=#85a0c7 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
