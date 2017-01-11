@@ -8,3 +8,6 @@ colorschemes:
   - name: vischeme
     background: 'dark'
     palette: vischeme
+  - name: iceberg
+    background: 'dark'
+    palette: iceberg
