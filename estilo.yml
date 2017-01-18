@@ -11,3 +11,6 @@ colorschemes:
   - name: iceberg
     background: 'dark'
     palette: iceberg
+  - name: hybrid
+    background: 'light'
+    palette: hybrid
