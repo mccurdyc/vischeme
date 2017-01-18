@@ -4,7 +4,7 @@
 " URL: http://github.com/delgrecoj/vischeme
 " Author: Jesse Del Greco
 " License: MIT
-" Last Change: 2017/01/18 09:27
+" Last Change: 2017/01/18 09:46
 " ===============================================================
 
 let g:colors_name="vischeme"
