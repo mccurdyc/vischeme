@@ -4,7 +4,7 @@
 " URL: http://github.com/delgrecoj/vischeme
 " Author: Jesse Del Greco
 " License: MIT
-" Last Change: 2017/01/19 19:58
+" Last Change: 2017/01/18 16:55
 " ===============================================================
 
 let g:colors_name="hybrid"
