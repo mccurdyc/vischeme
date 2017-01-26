@@ -1,0 +1,23 @@
+## grayscales
+background:   '#1d1f21'
+bgdarker:   '#35393c'
+bgdimmed:   '#41454a'
+fglightest: '#757b77'
+fgdimmed:   '#9ea39f'
+foreground: '#c5c8c6'
+fglighter:  '#757b77'
+
+## highlights
+reddish:  '#cc6666'
+greenish: '#b5bd68'
+purplish: '#d4c3d9'
+blueish:  '#81a2be'
+purplist: '#b294bb'
+tealish:  '#8abeb7'
+
+## backgrounds
+highlight:  '#f0c674'
+redlight:   '#cc6666'
+greenlight: '#b5bd68'
+bluelight:  '#81a2be'
+
