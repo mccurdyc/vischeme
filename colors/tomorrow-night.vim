@@ -4,7 +4,7 @@
 " URL: http://github.com/delgrecoj/vischeme
 " Author: Jesse Del Greco
 " License: MIT
-" Last Change: 2017/01/25 20:12
+" Last Change: 2017/01/26 16:47
 " ===============================================================
 
 set background=dark
@@ -14,25 +14,25 @@ if exists("syntax_on")
 endif
 let g:colors_name="tomorrow-night"
 
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi CursorColumn guifg=NONE ctermfg=NONE guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi CursorLine guifg=NONE ctermfg=NONE guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi CursorLineNr guifg=#8abeb7 ctermfg=109 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi CursorColumn guifg=NONE ctermfg=NONE guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi CursorLine guifg=NONE ctermfg=NONE guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi CursorLineNr guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi Directory guifg=#81a2be ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=NONE ctermfg=NONE guibg=#b5bd68 ctermbg=143 gui=NONE cterm=NONE
 hi DiffChange guifg=NONE ctermfg=NONE guibg=#81a2be ctermbg=109 gui=NONE cterm=NONE
 hi DiffDelete guifg=#cc6666 ctermfg=167 guibg=#cc6666 ctermbg=167 gui=NONE cterm=NONE
 hi DiffText guifg=NONE ctermfg=NONE guibg=#81a2be ctermbg=109 gui=italic cterm=italic
-hi VertSplit guifg=#35393c ctermfg=237 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi Folded guifg=#9ea39f ctermfg=247 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
+hi VertSplit guifg=#1d1f21 ctermfg=234 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi Folded guifg=#9ea39f ctermfg=247 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi FoldColumn guifg=#757b77 ctermfg=243 guibg=#41454a ctermbg=238 gui=NONE cterm=NONE
 hi SignColumn guifg=#757b77 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=underline cterm=underline
 hi LineNr guifg=#757b77 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi MatchParen guifg=#8abeb7 ctermfg=109 guibg=#35393c ctermbg=237 gui=underline cterm=underline
+hi MatchParen guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=underline cterm=underline
 hi NonText guifg=#9ea39f ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#c5c8c6 ctermfg=251 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
-hi PMenu guifg=#8abeb7 ctermfg=109 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
+hi PMenu guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi PMenuSel guifg=#1d1f21 ctermfg=234 guibg=#8abeb7 ctermbg=109 gui=NONE cterm=NONE
 hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#d4c3d9 ctermbg=182 gui=NONE cterm=NONE
 hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#d4c3d9 ctermbg=182 gui=NONE cterm=NONE
@@ -44,11 +44,11 @@ hi SpellBad guifg=#cc6666 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellLocal guifg=#d4c3d9 ctermfg=182 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#d4c3d9 ctermfg=182 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#81a2be ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#8abeb7 ctermfg=109 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi StatusLineNC guifg=#757b77 ctermfg=243 guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
+hi StatusLine guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi StatusLineNC guifg=#757b77 ctermfg=243 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi Title guifg=#81a2be ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Visual guifg=NONE ctermfg=NONE guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
-hi VisualNOS guifg=NONE ctermfg=NONE guibg=#35393c ctermbg=237 gui=NONE cterm=NONE
+hi Visual guifg=NONE ctermfg=NONE guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
+hi VisualNOS guifg=NONE ctermfg=NONE guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi WarningMsg guifg=#cc6666 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#757b77 ctermfg=243 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#d4c3d9 ctermfg=182 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -69,7 +69,7 @@ hi Special guifg=#81a2be ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Underlined guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi Error guifg=#cc6666 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi ErrorMsg guifg=#cc6666 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Todo guifg=#cc6666 ctermfg=167 guibg=#35393c ctermbg=237 gui=italic cterm=italic
+hi Todo guifg=#cc6666 ctermfg=167 guibg=#1d1f21 ctermbg=234 gui=italic cterm=italic
 hi EasyMotionShade guifg=#41454a ctermfg=238 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi EasyMotionTarget guifg=#8abeb7 ctermfg=109 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi EasyMotionTarget2First guifg=#8abeb7 ctermfg=109 guibg=NONE ctermbg=NONE gui=italic cterm=italic
@@ -83,7 +83,7 @@ hi TabLineFill guifg=#c5c8c6 ctermfg=251 guibg=#1d1f21 ctermbg=234 gui=NONE cter
 hi TabLineSel guifg=#c5c8c6 ctermfg=251 guibg=#1d1f21 ctermbg=234 gui=NONE cterm=NONE
 hi CurrentBuffer guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=underline cterm=underline
 hi texItalStyle guifg=#c5c8c6 ctermfg=251 guibg=#1d1f21 ctermbg=234 gui=italic cterm=italic
-hi specStyle guifg=#8abeb7 ctermfg=109 guibg=#35393c ctermbg=237 gui=italic cterm=italic
+hi specStyle guifg=#8abeb7 ctermfg=109 guibg=#1d1f21 ctermbg=234 gui=italic cterm=italic
 hi cssVendor guifg=#b5bd68 ctermfg=143 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssTagName guifg=#b5bd68 ctermfg=143 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssAttrComma guifg=#c5c8c6 ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
